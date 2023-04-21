@@ -7,9 +7,10 @@ Herein, a code were given to do the HTS experiment within a given time (like 0.5
 
 
 https://user-images.githubusercontent.com/40904479/233553646-f3694977-07e7-49a8-a418-9fec0f9587bc.mp4
+
+
+
 (HTS start at 0:35)
-
-
 The code need the following package:
 - python>=3.7
 - flask == 1.0.2
