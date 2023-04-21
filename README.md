@@ -2,6 +2,9 @@
 A code for controlling the time of high-temperature shock (HTS)
 
 High temperature shock is a convenient tool for rapidly synthesizing nanomaterials but lack of the control of HTS time.
+
+![image](https://user-images.githubusercontent.com/40904479/233554210-21af4a0b-d66b-4b4b-b543-72f24f5d725e.png)
+
 Herein, a code were given to do the HTS experiment within a given time (like 0.5 sec).
 
 
